@@ -1,5 +1,5 @@
-const CACHE='airfry-ricette-v2026-3';
-const CORE=['./','./index.html','./minimal-ui.css?v=1','./minimal-ui.js?v=1','./manifest.webmanifest?v=2','./icon-192.png','./icon-512.png','./icon-180.png'];
+const CACHE='airfry-ricette-v2026-4';
+const CORE=['./','./index.html','./minimal-ui.css?v=1','./minimal-ui.js?v=2','./manifest.webmanifest?v=2','./icon-192.png','./icon-512.png','./icon-180.png'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
 });
