@@ -1,0 +1,38 @@
+name: Apply minimal recipe UI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'minimal-ui.ready'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: airfry-minimal-ui
+  cancel-in-progress: true
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Patch index
+        run: python scripts/apply_minimal_ui.py
+      - name: Commit result
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "UI already applied"
+            exit 0
+          fi
+          git commit -m "Apply minimal fast-use recipe UI"
+          git push
