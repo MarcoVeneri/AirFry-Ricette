@@ -4,12 +4,13 @@ p=Path('index.html')
 s=p.read_text(encoding='utf-8')
 
 link='<link rel="stylesheet" href="./minimal-ui.css?v=1">'
-script='<script src="./minimal-ui.js?v=1" defer></script>'
+script='<script src="./minimal-ui.js?v=2" defer></script>'
 
 if 'minimal-ui.css' not in s:
     s=s.replace('</head>',f'  {link}\n  {script}\n</head>',1)
 else:
     s=s.replace('./minimal-ui.css?v=0','./minimal-ui.css?v=1')
+    s=s.replace('./minimal-ui.js?v=1','./minimal-ui.js?v=2')
     if 'minimal-ui.js' not in s:
         s=s.replace('</head>',f'  {script}\n</head>',1)
 
