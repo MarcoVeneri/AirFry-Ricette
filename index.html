@@ -3,12 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
-<meta name="theme-color" content="#171412">
+<meta name="theme-color" content="#edf4fb" media="(prefers-color-scheme:light)">
+<meta name="theme-color" content="#191e24" media="(prefers-color-scheme:dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="AirFry Studio">
-<link rel="manifest" href="manifest.webmanifest">
-<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-title" content="Ricette">
+<link rel="manifest" href="manifest.webmanifest?v=2">
+<link rel="apple-touch-icon" href="icon-180.png?v=2">
 <title>AirFry Studio — 160 ricette</title>
 <style>
 :root{--bg:#f4f1ec;--surface:#fff;--surface2:#f8f6f2;--ink:#171412;--muted:#7d756f;--line:#e7e0d9;--accent:#ef6b34;--accent2:#ffb56f;--dark:#191614;--ok:#2c8b58;--shadow:0 18px 50px rgba(39,31,26,.10);--r:26px}
@@ -31,6 +32,8 @@
 @media(max-width:620px){.shell{padding:10px 13px 105px}.brandtext span{display:none}.topactions .softbtn{display:none}.hero{border-radius:27px;padding:28px 20px;min-height:300px}.hero h1{font-size:43px}.hero p{font-size:16px}.search-wrap{padding:0 10px;margin-top:-24px}.grid{grid-template-columns:1fr}.rail{grid-auto-columns:82%}.thumb{height:195px}.featuregrid{grid-template-columns:1fr}.feature:last-child{grid-column:auto}.modal{padding:0;align-items:flex-end}.recipe{border-radius:26px 26px 0 0;max-height:96vh}.recipehero{height:280px}.rtitle{left:20px;bottom:18px}.recipebody{padding:20px}.stats{grid-template-columns:repeat(2,1fr)}.timer{display:grid;grid-template-columns:1fr auto}.timer .spacer{display:none}.matches{grid-template-columns:1fr}.kbd{display:none}}
 @media(prefers-color-scheme:dark){:root{--bg:#151311;--surface:#201d1a;--surface2:#2b2723;--ink:#f5f0ea;--muted:#b9afa7;--line:#3b3530;--dark:#f4eee7}.navbtn.active,.iconbtn,.softbtn,.search,.card,.feature,.recipe,.sheet,.shopcard,.settingscard{background:#211e1b}.pill{background:#211e1b}.pill.active{background:#f3ece5;color:#1d1a18}.feature.dark{background:#0e0d0c}.meta{background:#302b27}.tag{background:#31241d;border-color:#4a3327;color:#efb18e}.stat,.portion,.notes,.match{background:#2a2622}.portion button{background:#3b3530;color:white}.steps li:before{background:#f2ebe4;color:#1a1715}.tip{background:#40291d;border-color:#684029}.bottomnav{background:rgba(242,236,229,.91)}.bottomnav button{color:#5f5751}.bottomnav button.active{background:#1b1816;color:white}}
 </style>
+  <link rel="stylesheet" href="./minimal-ui.css?v=1">
+  <script src="./minimal-ui.js?v=1" defer></script>
 </head>
 <body>
 <div class="offline" id="offline">Sei offline · le ricette restano disponibili</div>
