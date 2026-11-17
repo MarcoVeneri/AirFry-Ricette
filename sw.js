@@ -1,12 +1,12 @@
-const CACHE='airfry-ricette-v2026-6-clean-ui-v4';
-const CORE=['./?ui=4','./index.html?ui=4','./clean-ui-v4.css?v=4','./clean-ui-v4.js?v=4','./manifest.webmanifest?v=4','./icon-192.png','./icon-512.png','./icon-180.png'];
-self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));});
-self.addEventListener('activate',e=>{e.waitUntil((async()=>{const keys=await caches.keys();await Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)));await self.clients.claim();const clients=await self.clients.matchAll({type:'window'});for(const client of clients){try{const u=new URL(client.url);u.searchParams.set('ui','4');await client.navigate(u.toString());}catch(_e){}}})());});
-self.addEventListener('fetch',e=>{
-  if(e.request.method!=='GET')return;
-  if(e.request.mode==='navigate'){
-    e.respondWith(fetch(e.request,{cache:'no-store'}).then(r=>{const copy=r.clone();caches.open(CACHE).then(c=>c.put('./index.html?ui=4',copy)).catch(()=>{});return r;}).catch(()=>caches.match('./index.html?ui=4')));
-    return;
-  }
-  e.respondWith(fetch(e.request,{cache:'no-store'}).then(r=>{const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy)).catch(()=>{});return r;}).catch(()=>caches.match(e.request)));
+const CACHE="airfry-studio-v8-20261117";
+const CORE=["./","./index.html","./studio.css?v=8","./studio-recipes.js?v=8","./studio.js?v=8","./manifest.webmanifest?v=8","./recipes.json","./icon-180.png","./icon-192.png","./icon-512.png"];
+self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
+self.addEventListener("activate",e=>e.waitUntil((async()=>{const names=await caches.keys();await Promise.all(names.filter(n=>n!==CACHE).map(n=>caches.delete(n)));await self.clients.claim();})()));
+self.addEventListener("fetch",e=>{
+ const req=e.request;if(req.method!=="GET"||new URL(req.url).origin!==location.origin)return;
+ if(req.mode==="navigate"){
+  e.respondWith(fetch(req).then(res=>{if(res.ok){let cp=res.clone();caches.open(CACHE).then(c=>c.put("./index.html",cp)).catch(()=>{});}return res;}).catch(async()=>await caches.match("./index.html")||await caches.match("./")));
+  return;
+ }
+ e.respondWith(caches.match(req).then(cached=>cached||fetch(req).then(res=>{if(res.ok){const cp=res.clone();caches.open(CACHE).then(c=>c.put(req,cp)).catch(()=>{});}return res;})));
 });
