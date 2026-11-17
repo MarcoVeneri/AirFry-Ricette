@@ -1,4 +1,4 @@
-/* AirFry Studio: ricette creative e rapide, versione 2026.11. */
+/* AirFry Studio · ricette facili, belle e senza stampi. */
 window.STUDIO_RECIPES=[
   {
     "id": "c1",
@@ -107,7 +107,7 @@ window.STUDIO_RECIPES=[
   },
   {
     "id": "c5",
-    "title": "Rose di patate croccanti",
+    "title": "Roselline di patate croccanti",
     "category": "Patate",
     "emoji": "🌹",
     "prep": 12,
@@ -115,77 +115,80 @@ window.STUDIO_RECIPES=[
     "temp": 190,
     "ingredients": [
       "2 patate medie",
-      "2 cucchiai parmigiano",
+      "2 cucchiai di parmigiano",
       "1 cucchiaio olio EVO",
-      "Rosmarino e sale"
+      "Rosmarino e sale",
+      "4 stecchini di legno"
     ],
     "steps": [
-      "Taglia le patate a fettine sottilissime.",
-      "Condiscile con olio e parmigiano.",
-      "Arrotola le fettine sovrapposte in piccole rose e fermale in stampini adatti.",
-      "Cuoci a 190 °C per 16–18 minuti, finché tenere e dorate."
+      "Con un pelapatate ricava fettine molto sottili di patata.",
+      "Condisci con poco olio, parmigiano e rosmarino.",
+      "Sovrapponi 7–8 fettine, arrotolale a rosa e fermale con uno stecchino.",
+      "Cuoci a 190 °C per 16–18 minuti, finché tenere e dorate. Togli gli stecchini prima di servire."
     ],
-    "tip": "Più sottili sono le fette, più belle vengono le rose.",
+    "tip": "Niente stampi: bastano pelapatate e semplici stecchini.",
     "shape": "Rose",
     "image": "",
     "portions": 2
   },
   {
     "id": "c6",
-    "title": "Tortini di patate e scamorza",
+    "title": "Medaglioni di patate filanti",
     "category": "Patate",
     "emoji": "🧁",
     "prep": 10,
-    "cook": 18,
+    "cook": 17,
     "temp": 185,
     "ingredients": [
-      "300 g patate già lessate",
-      "80 g scamorza",
+      "300 g patate già lessate (anche avanzate)",
+      "80 g scamorza a cubetti",
       "2 cucchiai parmigiano",
-      "1 uovo",
+      "2 cucchiai pangrattato",
       "Sale e pepe"
     ],
     "steps": [
-      "Schiaccia le patate già cotte.",
-      "Aggiungi uovo, parmigiano, sale e pepe.",
-      "Metti negli stampini da muffin un cucchiaio di impasto, scamorza e altro impasto.",
-      "Cuoci a 185 °C per circa 18 minuti."
+      "Schiaccia le patate già cotte con parmigiano, pangrattato, sale e pepe.",
+      "Prendi una pallina, inserisci un cubetto di scamorza al centro e richiudi.",
+      "Schiacciala tra le mani formando un medaglione.",
+      "Cuoci a 185 °C per 16–18 minuti, girando con delicatezza."
     ],
-    "tip": "Ottimi per recuperare patate lessate del giorno prima.",
-    "shape": "Muffin",
+    "tip": "Una ricetta perfetta per recuperare le patate lesse.",
+    "shape": "Medaglioni",
     "image": "",
     "portions": 2
   },
   {
     "id": "c7",
-    "title": "Nidi di patate e uovo",
-    "category": "Patate",
+    "title": "Nidi di zucchine con cuore filante",
+    "category": "Verdure",
     "emoji": "🥚",
     "prep": 12,
-    "cook": 14,
+    "cook": 16,
     "temp": 185,
     "ingredients": [
-      "2 patate medie grattugiate",
-      "2 uova piccole",
-      "1 cucchiaio olio EVO",
+      "2 zucchine medie",
+      "1 uovo",
+      "50 g pangrattato",
+      "40 g parmigiano",
+      "60 g scamorza a cubetti",
       "Sale e pepe"
     ],
     "steps": [
-      "Grattugia le patate e strizzale in un canovaccio.",
-      "Condisci con olio, sale e pepe; forma due nidi in stampini.",
-      "Cuoci i nidi a 185 °C per 8 minuti.",
-      "Rompi un uovo in ogni nido e continua 6–8 minuti, fino a cottura desiderata."
+      "Grattugia le zucchine e strizzale benissimo.",
+      "Mescola con uovo, pangrattato, parmigiano e sale.",
+      "Con le mani fai 6 palline e schiaccia il centro a formare piccoli nidi.",
+      "Riempi la cavità con scamorza e cuoci a 185 °C per circa 16 minuti."
     ],
-    "tip": "Per un uovo ben cotto prosegui la cottura quanto necessario.",
+    "tip": "La cavità si fa con il pollice: non serve alcuno stampo.",
     "shape": "Nidi",
     "image": "",
     "portions": 2
   },
   {
     "id": "c8",
-    "title": "Stelline di patate e parmigiano",
+    "title": "Faccine di patate sorridenti",
     "category": "Patate",
-    "emoji": "⭐",
+    "emoji": "🙂",
     "prep": 12,
     "cook": 16,
     "temp": 190,
@@ -193,16 +196,17 @@ window.STUDIO_RECIPES=[
       "300 g patate già lessate",
       "50 g parmigiano",
       "1 cucchiaio farina",
-      "Sale e rosmarino"
+      "Sale e rosmarino",
+      "1 cucchiaino olio EVO"
     ],
     "steps": [
       "Schiaccia le patate cotte e unisci parmigiano, farina e sale.",
-      "Stendi un impasto spesso 1,5 cm tra due fogli di carta forno.",
-      "Ritaglia le stelline con una formina.",
-      "Cuoci a 190 °C per 15–17 minuti, girando con delicatezza."
+      "Forma piccoli dischi con le mani, spessi 1–1,5 cm.",
+      "Con la punta di un cucchiaino crea occhi e sorriso su ogni dischetto.",
+      "Spennella con poco olio e cuoci a 190 °C per 15–17 minuti."
     ],
-    "tip": "Se l’impasto attacca, fallo riposare 5 minuti in frigo.",
-    "shape": "Stelle",
+    "tip": "Le faccine le disegni con il cucchiaino, senza tagliabiscotti.",
+    "shape": "Faccine",
     "image": "",
     "portions": 2
   },
@@ -234,7 +238,7 @@ window.STUDIO_RECIPES=[
   },
   {
     "id": "c10",
-    "title": "Fiori di carote e formaggio",
+    "title": "Fiorellini di carote e parmigiano",
     "category": "Verdure",
     "emoji": "🌼",
     "prep": 10,
@@ -243,44 +247,44 @@ window.STUDIO_RECIPES=[
     "ingredients": [
       "2 carote grandi grattugiate",
       "1 uovo",
-      "50 g formaggio grattugiato",
+      "50 g parmigiano",
       "50 g pangrattato",
       "Sale e pepe"
     ],
     "steps": [
-      "Grattugia finemente le carote e strizzale.",
-      "Mescola con uovo, formaggio e pangrattato.",
-      "Forma piccoli fiori o medaglioni con uno stampino.",
-      "Cuoci a 185 °C per circa 15 minuti, finché dorati."
+      "Grattugia e strizza bene le carote.",
+      "Mescola con uovo, parmigiano, pangrattato e un pizzico di sale.",
+      "Forma piccoli dischetti e pizzica il bordo in cinque punti per creare i petali.",
+      "Cuoci a 185 °C per circa 15 minuti."
     ],
-    "tip": "Un pizzico di curcuma accentua il colore.",
+    "tip": "Forma i petali pizzicando i bordi con le dita: nessuna formina.",
     "shape": "Fiori",
     "image": "",
     "portions": 2
   },
   {
     "id": "c11",
-    "title": "Polpette di melanzane lampo",
+    "title": "Involtini di melanzane e scamorza",
     "category": "Verdure",
     "emoji": "🍆",
-    "prep": 10,
-    "cook": 15,
+    "prep": 12,
+    "cook": 18,
     "temp": 190,
     "ingredients": [
-      "250 g melanzane già cotte e ben scolate",
-      "60 g pangrattato",
-      "40 g parmigiano",
-      "1 uovo piccolo",
-      "Basilico e sale"
+      "1 melanzana media",
+      "100 g scamorza",
+      "60 g prosciutto cotto (facoltativo)",
+      "1 cucchiaio olio EVO",
+      "Origano e sale"
     ],
     "steps": [
-      "Schiaccia le melanzane già cotte e strizzate.",
-      "Mescola con gli altri ingredienti.",
-      "Forma polpettine e rotolale in poco pangrattato.",
-      "Cuoci a 190 °C per 14–16 minuti."
+      "Taglia la melanzana in fette sottili per il lungo e spennella con olio.",
+      "Cuoci le fette a 190 °C per 7–8 minuti per ammorbidirle.",
+      "Metti un bastoncino di scamorza e, se vuoi, un po’ di prosciutto; arrotola.",
+      "Rimetti nel cestello con la chiusura in basso per altri 9–10 minuti."
     ],
-    "tip": "Perfette con melanzane avanzate dalla sera prima.",
-    "shape": "Polpette",
+    "tip": "Se le fette sono molto sottili, controllale prima: devono piegarsi senza spezzarsi.",
+    "shape": "Involtini",
     "image": "",
     "portions": 2
   },
@@ -374,21 +378,21 @@ window.STUDIO_RECIPES=[
       "Origano e olio EVO"
     ],
     "steps": [
-      "Ritaglia il pancarrè a forma di cuore.",
+      "Con un coltello ritaglia dal pancarrè una sagoma a cuore, senza bisogno di formine.",
       "Spalma un velo di passata condita.",
       "Aggiungi mozzarella ben asciutta e origano.",
       "Cuoci a 190 °C per 7–9 minuti."
     ],
-    "tip": "Una mozzarella ben scolata non bagna il pane.",
+    "tip": "La sagoma a cuore si fa con un semplice coltello.",
     "shape": "Cuori",
     "image": "",
     "portions": 2
   },
   {
     "id": "c16",
-    "title": "Cestini di tortilla con sorpresa",
+    "title": "Bustine croccanti di tortilla",
     "category": "Sfiziosità",
-    "emoji": "🧺",
+    "emoji": "✉️",
     "prep": 10,
     "cook": 10,
     "temp": 180,
@@ -396,16 +400,16 @@ window.STUDIO_RECIPES=[
       "2 tortillas",
       "80 g prosciutto cotto",
       "80 g formaggio filante",
-      "4 pomodorini"
+      "4 pomodorini ben asciutti"
     ],
     "steps": [
-      "Taglia ogni tortilla in 4 quadrati.",
-      "Sistemale in stampini da muffin come piccoli cestini.",
-      "Riempi con cotto, formaggio e pomodorini.",
-      "Cuoci a 180 °C per circa 10 minuti."
+      "Dividi le tortillas in grandi quadrati.",
+      "Metti al centro un po’ di cotto, formaggio e pomodoro.",
+      "Piega i quattro lembi verso il centro come una busta e appoggia la chiusura in basso.",
+      "Cuoci a 180 °C per 9–11 minuti finché croccanti."
     ],
-    "tip": "Varianti: spinaci già cotti o tonno sgocciolato.",
-    "shape": "Cestini",
+    "tip": "Le pieghe si mantengono chiuse appoggiandole sul fondo del cestello, senza stampini.",
+    "shape": "Bustine",
     "image": "",
     "portions": 2
   },
@@ -513,54 +517,53 @@ window.STUDIO_RECIPES=[
   },
   {
     "id": "c21",
-    "title": "Fiorellini di ricotta e spinaci",
+    "title": "Girelle ricotta e spinaci",
     "category": "Formaggio",
-    "emoji": "🌸",
+    "emoji": "🌀",
     "prep": 10,
-    "cook": 14,
+    "cook": 12,
     "temp": 185,
     "ingredients": [
+      "2 piadine sottili",
       "150 g ricotta asciutta",
       "120 g spinaci già cotti e strizzati",
-      "1 uovo",
       "40 g parmigiano",
-      "40 g pangrattato"
+      "Sale e pepe"
     ],
     "steps": [
-      "Trita gli spinaci ben strizzati.",
-      "Unisci ricotta, uovo, parmigiano e pangrattato.",
-      "Distribuisci in stampini a forma di fiore.",
-      "Cuoci a 185 °C per 13–15 minuti."
+      "Trita gli spinaci e mescolali con ricotta, parmigiano e pepe.",
+      "Spalma il ripieno sulle due piadine.",
+      "Arrotola stretto e taglia ogni rotolo in 5 girelle.",
+      "Adagia le girelle sul lato tagliato e cuoci a 185 °C per 11–13 minuti."
     ],
-    "tip": "Sformali dopo 3 minuti di riposo.",
-    "shape": "Fiori",
+    "tip": "Piadina e ripieno: niente stampi, pochi minuti.",
+    "shape": "Girelle",
     "image": "",
     "portions": 2
   },
   {
     "id": "c22",
-    "title": "Muffin salati prosciutto e formaggio",
+    "title": "Pacchettini filanti di pancarrè",
     "category": "Formaggio",
-    "emoji": "🧁",
+    "emoji": "🥟",
     "prep": 10,
-    "cook": 15,
+    "cook": 12,
     "temp": 180,
     "ingredients": [
-      "2 uova",
-      "80 g farina",
-      "60 ml latte",
-      "60 g prosciutto cotto",
-      "60 g formaggio filante",
-      "1 cucchiaino lievito istantaneo per salati"
+      "8 fette di pancarrè",
+      "80 g prosciutto cotto",
+      "80 g scamorza",
+      "1 uovo",
+      "60 g pangrattato"
     ],
     "steps": [
-      "Mescola uova, latte, farina e lievito.",
-      "Incorpora prosciutto e formaggio a cubetti.",
-      "Versa in 6 stampini, riempiendoli per due terzi.",
-      "Cuoci a 180 °C per 14–16 minuti; controlla che il centro sia cotto."
+      "Appiattisci ogni fetta di pancarrè con un bicchiere.",
+      "Metti al centro poco cotto e un cubetto di scamorza.",
+      "Ripiega a triangolo e sigilla bene i bordi premendoli con una forchetta.",
+      "Passa nell’uovo e nel pangrattato, poi cuoci a 190 °C per circa 12 minuti."
     ],
-    "tip": "Ottimi anche freddi per pranzo al sacco.",
-    "shape": "Muffin",
+    "tip": "Un bicchiere e una forchetta bastano per ottenere un bel bordo sigillato.",
+    "shape": "Pacchettini",
     "image": "",
     "portions": 2
   },
@@ -590,28 +593,27 @@ window.STUDIO_RECIPES=[
   },
   {
     "id": "c24",
-    "title": "Mini tortini banana e cioccolato",
+    "title": "Biscottini morbidi banana e cacao",
     "category": "Dolci",
-    "emoji": "🍫",
+    "emoji": "🍪",
     "prep": 8,
     "cook": 12,
     "temp": 170,
     "ingredients": [
-      "1 banana matura",
-      "1 uovo",
-      "3 cucchiai farina",
-      "1 cucchiaio cacao",
-      "25 g gocce cioccolato",
-      "1/2 cucchiaino lievito dolci"
+      "1 banana molto matura",
+      "85 g fiocchi d’avena",
+      "1 cucchiaio cacao amaro",
+      "25 g gocce di cioccolato",
+      "Cannella facoltativa"
     ],
     "steps": [
       "Schiaccia la banana con una forchetta.",
-      "Aggiungi uovo, farina, cacao e lievito; mescola.",
-      "Dividi in 4 stampini e aggiungi le gocce.",
-      "Cuoci a 170 °C per circa 12 minuti, verificando la cottura."
+      "Mescola con avena, cacao e gocce di cioccolato.",
+      "Forma 8 mucchietti schiacciati con un cucchiaio su carta forno per friggitrice.",
+      "Cuoci a 170 °C per 11–13 minuti; lascia raffreddare qualche minuto."
     ],
-    "tip": "Dolcezza naturale della banana; niente zucchero aggiunto.",
-    "shape": "Muffin",
+    "tip": "Nessuno stampino, si modellano con un cucchiaio.",
+    "shape": "Biscotti",
     "image": "",
     "portions": 2
   },
@@ -630,12 +632,12 @@ window.STUDIO_RECIPES=[
       "1 cucchiaino confettura"
     ],
     "steps": [
-      "Taglia la mela in fettine molto sottili e ammorbidiscile brevemente.",
-      "Taglia la sfoglia in strisce, spalma poca confettura.",
-      "Disponi le mele sul bordo e arrotola a rosa.",
-      "Cuoci in stampini a 180 °C per circa 15 minuti, finché la sfoglia è cotta."
+      "Taglia la mela in fettine molto sottili e ammorbidiscile per pochi secondi, se serve.",
+      "Taglia la sfoglia in strisce e spalma poca confettura.",
+      "Disponi le fettine di mela lungo un bordo e arrotola ogni striscia.",
+      "Pizzica la base per fermarla, appoggia su carta forno e cuoci a 180 °C per circa 15 minuti."
     ],
-    "tip": "Se le fette si spezzano, scaldale per pochi secondi.",
+    "tip": "Pizzicando la base, la rosellina rimane in piedi anche senza stampo.",
     "shape": "Rose",
     "image": "",
     "portions": 2
@@ -662,6 +664,314 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Restano morbidi all’interno: lasciali raffreddare.",
     "shape": "Cuori",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c27",
+    "title": "Involtini di zucchine, speck e scamorza",
+    "category": "Verdure",
+    "emoji": "🥒",
+    "prep": 10,
+    "cook": 13,
+    "temp": 190,
+    "ingredients": [
+      "2 zucchine grandi",
+      "70 g speck",
+      "90 g scamorza",
+      "1 cucchiaino olio EVO"
+    ],
+    "steps": [
+      "Affetta le zucchine sottili per il lungo con un pelapatate.",
+      "Stendi su ogni fetta poco speck e una striscia di scamorza.",
+      "Arrotola ben stretto e disponi nel cestello con l’apertura sotto.",
+      "Cuoci a 190 °C per 12–14 minuti, finché le zucchine sono morbide."
+    ],
+    "tip": "Se una fetta è troppo corta, sovrapponine due.",
+    "shape": "Involtini",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c28",
+    "title": "Sacchettini di pasta fillo con verdure",
+    "category": "Sfiziosità",
+    "emoji": "🥟",
+    "prep": 12,
+    "cook": 12,
+    "temp": 185,
+    "ingredients": [
+      "4 fogli di pasta fillo",
+      "1 piccola zucchina grattugiata e strizzata",
+      "80 g ricotta asciutta",
+      "30 g parmigiano",
+      "Olio EVO"
+    ],
+    "steps": [
+      "Mescola zucchina strizzata, ricotta e parmigiano.",
+      "Taglia la fillo in 8 quadrati, usando due strati per ciascuno.",
+      "Metti il ripieno al centro, raccogli i lembi e attorciglia con delicatezza la punta.",
+      "Spennella con olio e cuoci a 185 °C per 11–13 minuti finché dorati."
+    ],
+    "tip": "Inumidisci appena la punta con acqua per chiuderla: non servono stampi.",
+    "shape": "Sacchettini",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c29",
+    "title": "Caramelle di sfoglia agli spinaci",
+    "category": "Sfiziosità",
+    "emoji": "🍬",
+    "prep": 10,
+    "cook": 12,
+    "temp": 185,
+    "ingredients": [
+      "1 rotolo di sfoglia rettangolare",
+      "100 g spinaci già cotti e strizzati",
+      "80 g ricotta",
+      "40 g parmigiano",
+      "1 cucchiaino latte per spennellare"
+    ],
+    "steps": [
+      "Mescola spinaci, ricotta e parmigiano.",
+      "Taglia la sfoglia in 8 rettangoli e metti al centro poco ripieno.",
+      "Richiudi a caramella, torcendo leggermente le estremità.",
+      "Spennella con latte e cuoci a 185 °C per 11–13 minuti."
+    ],
+    "tip": "Lascia spazio tra le caramelle: la sfoglia cresce in cottura.",
+    "shape": "Caramelle",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c30",
+    "title": "Barchette di zucchine filanti",
+    "category": "Verdure",
+    "emoji": "🛶",
+    "prep": 12,
+    "cook": 16,
+    "temp": 190,
+    "ingredients": [
+      "2 zucchine medie",
+      "70 g scamorza",
+      "3 cucchiai pangrattato",
+      "2 cucchiai parmigiano",
+      "Olio EVO, sale, origano"
+    ],
+    "steps": [
+      "Taglia le zucchine a metà per il lungo e scava un po’ di polpa con un cucchiaino.",
+      "Trita la polpa e mescolala con pangrattato, parmigiano e scamorza.",
+      "Riempi le quattro barchette e aggiungi un filo d’olio.",
+      "Cuoci a 190 °C per 15–17 minuti, finché le zucchine sono tenere."
+    ],
+    "tip": "Basta un cucchiaino per scavare e riempire.",
+    "shape": "Barchette",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c31",
+    "title": "Rotolini di pollo al limone e ricotta",
+    "category": "Pollo",
+    "emoji": "🍋",
+    "prep": 12,
+    "cook": 16,
+    "temp": 190,
+    "ingredients": [
+      "350 g petto di pollo a fettine molto sottili",
+      "120 g ricotta asciutta",
+      "Scorza di mezzo limone",
+      "Prezzemolo, pepe e sale",
+      "1 cucchiaino olio EVO"
+    ],
+    "steps": [
+      "Appiattisci delicatamente le fettine di pollo.",
+      "Mescola ricotta, scorza di limone, prezzemolo e poco sale.",
+      "Spalma poco ripieno, arrotola e appoggia con la chiusura in basso.",
+      "Spennella con olio e cuoci a 190 °C per circa 16 minuti, verificando 74 °C al centro."
+    ],
+    "tip": "Non riempirli troppo: resteranno chiusi senza stecchini.",
+    "shape": "Involtini",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c32",
+    "title": "Girelle di melanzane al pomodoro",
+    "category": "Verdure",
+    "emoji": "🍅",
+    "prep": 13,
+    "cook": 16,
+    "temp": 190,
+    "ingredients": [
+      "1 melanzana grande",
+      "4 cucchiai passata di pomodoro",
+      "80 g mozzarella ben asciutta",
+      "Origano, sale e olio EVO"
+    ],
+    "steps": [
+      "Affetta la melanzana sottile per il lungo.",
+      "Cuoci le fette con poco olio a 190 °C per 7 minuti per ammorbidirle.",
+      "Spalma un velo di pomodoro, aggiungi mozzarella asciutta e arrotola.",
+      "Cuoci ancora 8–9 minuti con la chiusura in basso."
+    ],
+    "tip": "Sembrano mini cannelloni, senza pasta!",
+    "shape": "Girelle",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c33",
+    "title": "Fagottini di verdure in piadina",
+    "category": "Sfiziosità",
+    "emoji": "🥙",
+    "prep": 10,
+    "cook": 12,
+    "temp": 185,
+    "ingredients": [
+      "2 piadine",
+      "1 carota grattugiata",
+      "1 zucchina piccola grattugiata e strizzata",
+      "80 g formaggio spalmabile",
+      "Sale e paprika"
+    ],
+    "steps": [
+      "Mescola le verdure grattugiate e strizzate con formaggio e paprika.",
+      "Dividi ogni piadina in quattro spicchi.",
+      "Metti un cucchiaino di ripieno su ogni spicchio e piegalo a triangolo.",
+      "Cuoci con la chiusura in basso a 185 °C per circa 12 minuti."
+    ],
+    "tip": "Pochi ingredienti e una piega semplice: croccanti fuori, morbidi dentro.",
+    "shape": "Fagottini",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c34",
+    "title": "Cestini di pancarrè senza stampini",
+    "category": "Sfiziosità",
+    "emoji": "🧺",
+    "prep": 8,
+    "cook": 10,
+    "temp": 190,
+    "ingredients": [
+      "4 fette pancarrè",
+      "80 g prosciutto cotto",
+      "80 g scamorza",
+      "1 cucchiaio passata densa",
+      "Origano"
+    ],
+    "steps": [
+      "Appiattisci il pancarrè con un bicchiere.",
+      "Metti un po’ di cotto e scamorza al centro.",
+      "Piega i quattro angoli verso l’alto e premili fra loro, formando un cestino.",
+      "Disponi ben vicini ma non sovrapposti e cuoci a 190 °C per 9–11 minuti."
+    ],
+    "tip": "Per tenere la forma basta pizzicare gli angoli; niente stampi.",
+    "shape": "Cestini",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c35",
+    "title": "Crocchette di ceci e zucchine",
+    "category": "Verdure",
+    "emoji": "🧆",
+    "prep": 12,
+    "cook": 15,
+    "temp": 190,
+    "ingredients": [
+      "240 g ceci cotti e scolati",
+      "1 zucchina piccola grattugiata e strizzata",
+      "45 g pangrattato",
+      "1 cucchiaio parmigiano",
+      "Paprika e olio EVO"
+    ],
+    "steps": [
+      "Schiaccia i ceci con la forchetta fino a ottenere una pasta grossolana.",
+      "Unisci zucchina strizzata, parmigiano, pangrattato e paprika.",
+      "Forma crocchette ovali e spennella con poco olio.",
+      "Cuoci a 190 °C per 14–16 minuti, girando a metà."
+    ],
+    "tip": "Per renderle ancora più belle, fai un’incisione diagonale con la forchetta.",
+    "shape": "Crocchette",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c36",
+    "title": "Roselline di pera e cannella",
+    "category": "Dolci",
+    "emoji": "🍐",
+    "prep": 12,
+    "cook": 15,
+    "temp": 180,
+    "ingredients": [
+      "1 rotolo sfoglia rettangolare",
+      "1 pera soda",
+      "1 cucchiaino miele",
+      "Cannella"
+    ],
+    "steps": [
+      "Taglia la pera a fettine sottilissime.",
+      "Dividi la sfoglia in strisce, spennella poco miele e aggiungi cannella.",
+      "Disponi le fettine lungo il bordo e arrotola per creare le rose.",
+      "Pizzica la base e cuoci su carta forno a 180 °C per circa 15 minuti."
+    ],
+    "tip": "Nessuno stampino: premi la base per stabilizzarle.",
+    "shape": "Rose",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c37",
+    "title": "Fiocchetti croccanti prosciutto e formaggio",
+    "category": "Sfiziosità",
+    "emoji": "🎀",
+    "prep": 9,
+    "cook": 11,
+    "temp": 190,
+    "ingredients": [
+      "1 rotolo di sfoglia rettangolare",
+      "60 g prosciutto cotto",
+      "60 g scamorza grattugiata",
+      "1 cucchiaino latte"
+    ],
+    "steps": [
+      "Taglia la sfoglia in piccoli rettangoli.",
+      "Metti al centro poco prosciutto e scamorza, copri con un altro rettangolo.",
+      "Premi i bordi con la forchetta e pizzica il centro a formare un fiocco.",
+      "Spennella con latte e cuoci a 190 °C per 10–12 minuti."
+    ],
+    "tip": "Una forma simpatica fatta solo con le dita.",
+    "shape": "Fiocchi",
+    "image": "",
+    "portions": 2
+  },
+  {
+    "id": "c38",
+    "title": "Spirali di carote e patate",
+    "category": "Patate",
+    "emoji": "🌀",
+    "prep": 12,
+    "cook": 16,
+    "temp": 190,
+    "ingredients": [
+      "1 patata grande",
+      "1 carota grande",
+      "2 cucchiai parmigiano",
+      "1 cucchiaio olio EVO",
+      "Sale e rosmarino"
+    ],
+    "steps": [
+      "Con il pelapatate ricava nastri sottili di patata e carota.",
+      "Alternali e arrotolali a piccola spirale; blocca con uno stecchino.",
+      "Condisci con olio, parmigiano e rosmarino.",
+      "Cuoci a 190 °C per circa 16 minuti, fino a quando risultano tenere. Rimuovi gli stecchini."
+    ],
+    "tip": "Si arrotolano a mano e diventano coloratissime.",
+    "shape": "Spirali",
     "image": "",
     "portions": 2
   }
