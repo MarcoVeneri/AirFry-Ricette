@@ -1,0 +1,36 @@
+name: Verify recipe photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'studio-recipes.js'
+      - 'scripts/check_recipe_photos.py'
+      - '.github/workflows/check-recipe-photos.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: airfry-photos-check
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check online image URLs
+        run: python scripts/check_recipe_photos.py
+      - name: Record report
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photo-audit.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Audit recipe photo links"
+          git push
