@@ -1,5 +1,5 @@
-const CACHE="airfry-studio-v8-20261117";
-const CORE=["./","./index.html","./studio.css?v=8","./studio-recipes.js?v=8","./studio.js?v=8","./manifest.webmanifest?v=8","./recipes.json","./icon-180.png","./icon-192.png","./icon-512.png"];
+const CACHE="airfry-studio-v9-20261117-photos";
+const CORE=["./","./index.html","./studio.css?v=9","./studio-recipes.js?v=9","./studio.js?v=9","./manifest.webmanifest?v=9","./recipes.json","./icon-180.png","./icon-192.png","./icon-512.png"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener("activate",e=>e.waitUntil((async()=>{const names=await caches.keys();await Promise.all(names.filter(n=>n!==CACHE).map(n=>caches.delete(n)));await self.clients.claim();})()));
 self.addEventListener("fetch",e=>{
