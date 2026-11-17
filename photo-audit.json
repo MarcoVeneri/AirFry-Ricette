@@ -1,0 +1,25 @@
+{
+  "total": 38,
+  "okay": 35,
+  "broken": [
+    {
+      "id": "c6",
+      "title": "Medaglioni di patate filanti",
+      "ok": false,
+      "status": "200",
+      "content_type": "3"
+    },
+    {
+      "id": "c22",
+      "title": "Pacchettini filanti di pancarrè",
+      "ok": false,
+      "status": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "c27",
+      "title": "Involtini di zucchine, speck e scamorza",
+      "ok": false,
+      "status": "HTTP Error 404: Not found"
+    }
+  ]
+}
