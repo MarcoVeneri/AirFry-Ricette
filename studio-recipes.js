@@ -1,4 +1,4 @@
-/* AirFry Studio · ricette facili, belle e senza stampi. */
+/* AirFry Studio: idee creative senza stampi */
 window.STUDIO_RECIPES=[
   {
     "id": "c1",
@@ -44,12 +44,12 @@ window.STUDIO_RECIPES=[
       "Olio spray"
     ],
     "steps": [
-      "Mescola pollo, parmigiano, paprika e sale.",
-      "Modella 10 cuoricini schiacciati.",
-      "Passa nell’uovo e poi nel pangrattato; spruzza olio.",
-      "Cuoci a 190 °C per 14–16 minuti, girando a metà e verificando 74 °C al cuore."
+      "Mescola pollo tritato, parmigiano, paprika e poco sale.",
+      "Prendi una porzione, modellala a cuore stringendo con le dita la punta in basso.",
+      "Passa nell’uovo e nel pangrattato, poi spruzza poco olio.",
+      "Cuoci a 190 °C per 14–16 minuti, girando a metà e verificando 74 °C al centro."
     ],
-    "tip": "Usa un tagliabiscotti a cuore per una forma regolare.",
+    "tip": "Bastano le mani: pizzica la base e arrotonda la parte alta del cuore.",
     "shape": "Cuori",
     "image": "",
     "portions": 2
