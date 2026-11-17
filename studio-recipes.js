@@ -1,4 +1,4 @@
-/* Foto illustrative realistiche scelte per forma e ingredienti. */
+/* Fotografie illustrative per ricette creative airfryer */
 window.STUDIO_RECIPES=[
   {
     "id": "c1",
@@ -162,9 +162,9 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Una ricetta perfetta per recuperare le patate lesse.",
     "shape": "Medaglioni",
-    "image": "https://assets.allcafe.ru/k/news/canvas/1920x1080/pic/955381837420.png",
+    "image": "https://scorpiolikeyou.com/upload/upload/news/69d0c7e452ee6.png",
     "portions": 2,
-    "photoSource": "https://allcafe.ru/freshnews/2026/03/05/sytnye-s-tyaguchey-nachinkoy-iz-ostatkov-pyure-delayu-restorannoe-blyudo--recept-prevraschayuschiy-vchera-v-palchiki-oblizhesh/",
+    "photoSource": "https://scorpiolikeyou.com/news/mozzarella-stuffed-potato-cakes-deliver-golden-crunch-and-a-melt-in-the-middle-payoff_a133",
     "photoKind": "illustrative"
   },
   {
@@ -604,9 +604,9 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Un bicchiere e una forchetta bastano per ottenere un bel bordo sigillato.",
     "shape": "Pacchettini",
-    "image": "https://www.boodschappen.nl/app/uploads/recipe_images/4by3_header%402x/ham-kaas-envelopjes-uit-de-airfryer.jpg",
+    "image": "https://www.gzrecipes.com/content/uploads/sites/6/2025/12/triangulos-de-pao-de-forma-frito-com-presunto-e-scamorza-e-7-6941c5d62f9031-29689830.jpg",
     "portions": 2,
-    "photoSource": "https://www.boodschappen.nl/recept/ham-kaas-envelopjes-uit-de-airfryer/",
+    "photoSource": "https://www.gzrecipes.com/pt/annatorte/triangulos-de-pao-de-forma-frito-com-presunto-e-scamorza/",
     "photoKind": "illustrative"
   },
   {
@@ -739,9 +739,9 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Se una fetta è troppo corta, sovrapponine due.",
     "shape": "Involtini",
-    "image": "https://www.merkur.de/assets/images/39/30/39030418-knusprige-zucchiniroellchen-aus-dem-airfryer-mediterraner-snack-mit-mozzarella-und-tomaten-aec.png",
+    "image": "https://www.gzrecipes.com/content/uploads/sites/5/2025/12/Rollitos-de-calabacin-en-freidora-de-aire-8-693eabedd7abd3-82850319.png",
     "portions": 2,
-    "photoSource": "https://www.merkur.de/leben/genuss/sommer-auf-dem-teller-knusprige-zucchini-roellchen-aus-dem-airfryer-mit-wuerziger-fuellung-93844109.html",
+    "photoSource": "https://www.gzrecipes.com/es/lamagiadeisapori/rollitos-de-calabacin-en-freidora-de-aire-4/",
     "photoKind": "illustrative"
   },
   {
