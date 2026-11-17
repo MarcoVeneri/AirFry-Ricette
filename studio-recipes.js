@@ -1,4 +1,4 @@
-/* Foto realistiche illustrative selezionate per forma e ingredienti. */
+/* Foto illustrative realistiche scelte per forma e ingredienti. */
 window.STUDIO_RECIPES=[
   {
     "id": "c1",
@@ -658,8 +658,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Nessuno stampino, si modellano con un cucchiaio.",
     "shape": "Biscotti",
-    "image": "",
-    "portions": 2
+    "image": "https://cdn.foodfanatic.com/uploads/2018/01/healthy-banana-chocolate-chip-breakfast-cookies-photo.jpg",
+    "portions": 2,
+    "photoSource": "https://www.foodfanatic.com/recipes/healthy-banana-chocolate-chip-breakfast-cookies-recipe/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c25",
@@ -683,8 +685,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Pizzicando la base, la rosellina rimane in piedi anche senza stampo.",
     "shape": "Rose",
-    "image": "",
-    "portions": 2
+    "image": "https://hips.hearstapps.com/hmg-prod/images/apple-roses-index-66f5a1aa3ad3e.jpg?crop=0.6666666666666666xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A%2A",
+    "portions": 2,
+    "photoSource": "https://www.delish.com/cooking/recipe-ideas/a40519388/best-apple-roses-recipe/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c26",
@@ -708,8 +712,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Restano morbidi all’interno: lasciali raffreddare.",
     "shape": "Cuori",
-    "image": "",
-    "portions": 2
+    "image": "https://www.breirezept.de/images/breirezeptbild_230_bananen-kekse_fuer_kinder_ohne_zucker.jpg",
+    "portions": 2,
+    "photoSource": "https://www.breirezept.de/rezept_bananen-kekse_fuer_kinder_ohne_zucker.html",
+    "photoKind": "illustrative"
   },
   {
     "id": "c27",
@@ -761,8 +767,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Inumidisci appena la punta con acqua per chiuderla: non servono stampi.",
     "shape": "Sacchettini",
-    "image": "",
-    "portions": 2
+    "image": "https://www.consumer.es/app/uploads/2024/12/paquetitos-masa-filo.jpg",
+    "portions": 2,
+    "photoSource": "https://www.consumer.es/alimentacion/5-recetas-deliciosas-con-masa-filo.html",
+    "photoKind": "illustrative"
   },
   {
     "id": "c29",
@@ -787,8 +795,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Lascia spazio tra le caramelle: la sfoglia cresce in cottura.",
     "shape": "Caramelle",
-    "image": "",
-    "portions": 2
+    "image": "https://recipebyme.com/assets/images/1754090441538-0dwmm0rv.jpg",
+    "portions": 2,
+    "photoSource": "https://recipebyme.com/recipes/parmesan-spinach-cheese-twists",
+    "photoKind": "illustrative"
   },
   {
     "id": "c30",
@@ -813,8 +823,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Basta un cucchiaino per scavare e riempire.",
     "shape": "Barchette",
-    "image": "",
-    "portions": 2
+    "image": "https://images.news.ru/2025/07/10/omXAdWYPhqdCDxfp5ylsvHfi3PNyair2KkhDwq7D_1200.png",
+    "portions": 2,
+    "photoSource": "https://news.ru/society/kabachki-eto-ne-tolko-oladi-top-8-neozhidannyh-idej",
+    "photoKind": "illustrative"
   },
   {
     "id": "c31",
@@ -839,8 +851,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Non riempirli troppo: resteranno chiusi senza stecchini.",
     "shape": "Involtini",
-    "image": "",
-    "portions": 2
+    "image": "https://assets.bonappetit.com/photos/57ae4b1153e63daf11a4e4d7/master/w_1280%2Cc_limit/chicken-roulade.jpg",
+    "portions": 2,
+    "photoSource": "https://www.bonappetit.com/recipe/chicken-roulade",
+    "photoKind": "illustrative"
   },
   {
     "id": "c32",
@@ -864,8 +878,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Sembrano mini cannelloni, senza pasta!",
     "shape": "Girelle",
-    "image": "",
-    "portions": 2
+    "image": "https://www.petitchef.se/imgupl/article/30676.webp",
+    "portions": 2,
+    "photoSource": "https://www.petitchef.se/artiklar/glutenfri-middag-13-enkla-och-oemotstandliga-recept-som-alla-kan-komma-overens-om-aven-de-som-inte-ar-intoleranta-aid-30676",
+    "photoKind": "illustrative"
   },
   {
     "id": "c33",
@@ -890,8 +906,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Pochi ingredienti e una piega semplice: croccanti fuori, morbidi dentro.",
     "shape": "Fagottini",
-    "image": "",
-    "portions": 2
+    "image": "https://images.ricardocuisine.com/services/recipes/4x3/9187.jpg",
+    "portions": 2,
+    "photoSource": "https://www.ricardocuisine.com/recettes/9187-samosas-sans-friture-revisites",
+    "photoKind": "illustrative"
   },
   {
     "id": "c34",
@@ -916,8 +934,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Per tenere la forma basta pizzicare gli angoli; niente stampi.",
     "shape": "Cestini",
-    "image": "",
-    "portions": 2
+    "image": "https://content-cocina.lecturas.com/medio/2025/06/26/cestitas-de-pan-de-molde_5873f549_250626114633_1200x630.jpg",
+    "portions": 2,
+    "photoSource": "https://www.lecturas.com/recetas/cestitas-pan-molde-airfryer-cena-perfecta-para-aprovechar-pan-que-te-sobra-solo-10-minutos-ingredientes_18752.html",
+    "photoKind": "illustrative"
   },
   {
     "id": "c35",
@@ -942,8 +962,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Per renderle ancora più belle, fai un’incisione diagonale con la forchetta.",
     "shape": "Crocchette",
-    "image": "",
-    "portions": 2
+    "image": "https://fguxgvqapacbniwgoxbh.supabase.co/storage/v1/object/public/ricettevegane-foto/polpette-zucchine-farina-di-ceci-veloci/1775730016843-1.png",
+    "portions": 2,
+    "photoSource": "https://www.ricettevegane.com/polpette-zucchine-farina-di-ceci-veloci",
+    "photoKind": "illustrative"
   },
   {
     "id": "c36",
@@ -967,8 +989,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Nessuno stampino: premi la base per stabilizzarle.",
     "shape": "Rose",
-    "image": "",
-    "portions": 2
+    "image": "https://www.bettycrocker.com/_next/image?q=75&url=https%3A%2F%2Fmojo.generalmills.com%2Fapi%2Fpublic%2Fcontent%2F7izrghJGRhqx0iNlHHFkeA_gmi_hi_res_jpeg.jpeg%3Fv%3Df2b276c9%26t%3D4c5a749111ad462d9f0355ce09ad5134&w=3840",
+    "portions": 2,
+    "photoSource": "https://www.bettycrocker.com/recipes/puff-pastry-pear-roses/914ab76f-b7d0-49a1-adf8-38fc7e49936f",
+    "photoKind": "illustrative"
   },
   {
     "id": "c37",
@@ -992,8 +1016,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Una forma simpatica fatta solo con le dita.",
     "shape": "Fiocchi",
-    "image": "",
-    "portions": 2
+    "image": "https://www.gzrecipes.com/content/uploads/sites/6/2025/12/20241113_115719-scaled-6-6935a64bbbed55-59461584.jpg",
+    "portions": 2,
+    "photoSource": "https://www.gzrecipes.com/pt/rosly/lacos-salgados-de-massa-folhada/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c38",
@@ -1018,7 +1044,9 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Si arrotolano a mano e diventano coloratissime.",
     "shape": "Spirali",
-    "image": "",
-    "portions": 2
+    "image": "https://www.kartoffel.ch/_Resources/Persistent/1d11681e1072d346d86266fb46b479e80142e787/Rosen-Kartoffeln_Gratin_ohne-Storyprop.jpg",
+    "portions": 2,
+    "photoSource": "https://www.kartoffel.ch/de/rezepte/hauptgang/rosen-kartoffel-gemuese-gratin-1.html",
+    "photoKind": "illustrative"
   }
 ];
