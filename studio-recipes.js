@@ -1,4 +1,4 @@
-/* AirFry Studio: idee creative senza stampi */
+/* Foto realistiche illustrative selezionate per forma e ingredienti. */
 window.STUDIO_RECIPES=[
   {
     "id": "c1",
@@ -51,8 +51,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Bastano le mani: pizzica la base e arrotonda la parte alta del cuore.",
     "shape": "Cuori",
-    "image": "",
-    "portions": 2
+    "image": "https://img.pikbest.com/photo/20240823/heart-shaped-chicken-nuggets-with-ketchup_10752089.jpg%21sw800",
+    "portions": 2,
+    "photoSource": "https://pikbest.com/photo/heart-shaped-chicken-nuggets-with-ketchup_10752089.html",
+    "photoKind": "illustrative"
   },
   {
     "id": "c3",
@@ -77,8 +79,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Piccole e leggermente piatte cuociono più uniformemente.",
     "shape": "Polpette",
-    "image": "",
-    "portions": 2
+    "image": "https://cupofyum.com/uploads/images/000/067/341/67341-chicken-and-zucchini-meatballs-635164e77c9ba892af5d7ffb506e99f7.jpg",
+    "portions": 2,
+    "photoSource": "https://cupofyum.com/recipes/chicken-and-zucchini-meatballs",
+    "photoKind": "illustrative"
   },
   {
     "id": "c4",
@@ -102,8 +106,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Se usi stecchini di legno, non lasciarli sporgere verso la resistenza.",
     "shape": "Spiedini",
-    "image": "",
-    "portions": 2
+    "image": "https://images.pexels.com/photos/5407359/pexels-photo-5407359.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "portions": 2,
+    "photoSource": "https://www.pexels.com/photo/bunch-of-grilled-meat-skewers-5407359/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c5",
@@ -128,8 +134,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Niente stampi: bastano pelapatate e semplici stecchini.",
     "shape": "Rose",
-    "image": "",
-    "portions": 2
+    "image": "https://i.blogs.es/9f35a7/rosas-patatas/840_560.jpg",
+    "portions": 2,
+    "photoSource": "https://www.directoalpaladar.com/directo-al-paladar/31-guarniciones-originales-con-las-que-hacer-de-tus-platos-una-fiesta",
+    "photoKind": "illustrative"
   },
   {
     "id": "c6",
@@ -154,8 +162,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Una ricetta perfetta per recuperare le patate lesse.",
     "shape": "Medaglioni",
-    "image": "",
-    "portions": 2
+    "image": "https://assets.allcafe.ru/k/news/canvas/1920x1080/pic/955381837420.png",
+    "portions": 2,
+    "photoSource": "https://allcafe.ru/freshnews/2026/03/05/sytnye-s-tyaguchey-nachinkoy-iz-ostatkov-pyure-delayu-restorannoe-blyudo--recept-prevraschayuschiy-vchera-v-palchiki-oblizhesh/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c7",
@@ -181,8 +191,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "La cavità si fa con il pollice: non serve alcuno stampo.",
     "shape": "Nidi",
-    "image": "",
-    "portions": 2
+    "image": "https://site-2409850.mozfiles.com/files/2409850/inlinepicturesbox/s/20250811_1531_Realisti%C5%A1ka%20maisto%20kompozicija_remix_01k2chpvgvffnt3m4200jjrfaa-9016893d.jpg",
+    "portions": 2,
+    "photoSource": "https://www.liekneti-paprasta.lt/receptai/karsti-patiekalai/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c8",
@@ -207,8 +219,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Le faccine le disegni con il cucchiaino, senza tagliabiscotti.",
     "shape": "Faccine",
-    "image": "",
-    "portions": 2
+    "image": "https://www.clubmahindra.com/blog/images/Potato-Smileys-resized.jpg",
+    "portions": 2,
+    "photoSource": "https://www.clubmahindra.com/blog/food/easy-recipes-for-kids",
+    "photoKind": "illustrative"
   },
   {
     "id": "c9",
@@ -233,8 +247,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Per una bella crosticina spruzza poco olio in superficie.",
     "shape": "Ciambelle",
-    "image": "",
-    "portions": 2
+    "image": "https://www.gzrecipes.com/content/uploads/sites/2/2025/10/IMG-20250725-WA0044-scaled-1-1024x768.jpg",
+    "portions": 2,
+    "photoSource": "https://www.gzrecipes.com/en/gustoamoreefantasie/super-crispy-zucchini-rings/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c10",
@@ -259,8 +275,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Forma i petali pizzicando i bordi con le dita: nessuna formina.",
     "shape": "Fiori",
-    "image": "",
-    "portions": 2
+    "image": "https://images.mrcook.app/recipe-image/019092a9-c97f-7969-a915-17b675096b8f?cacheKey=U3VuLCAxMiBKYW4gMjAyNSAwMzozODoyNCBHTVQ%3D",
+    "portions": 2,
+    "photoSource": "https://www.mrcook.app/en/recipes/019092a9-c97f-7969-a915-17b675096b8f",
+    "photoKind": "illustrative"
   },
   {
     "id": "c11",
@@ -285,8 +303,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Se le fette sono molto sottili, controllale prima: devono piegarsi senza spezzarsi.",
     "shape": "Involtini",
-    "image": "",
-    "portions": 2
+    "image": "https://tastelikemagic.com/assets/images/1742962173444-4q856p3x.webp",
+    "portions": 2,
+    "photoSource": "https://tastelikemagic.com/recipes/eggplant-rollatini-italian-dish",
+    "photoKind": "illustrative"
   },
   {
     "id": "c12",
@@ -310,8 +330,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Fissa il fondo con uno stecchino se necessario; rimuovilo prima di servire.",
     "shape": "Ventagli",
-    "image": "",
-    "portions": 2
+    "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEN6W7CCGYI6VGOHDX6UEQNC7Y.jpg",
+    "portions": 2,
+    "photoSource": "https://www.washingtonpost.com/recipes/hasselback-zucchini/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c13",
@@ -335,8 +357,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Tienila coperta con un panno mentre lavori: la fillo secca in fretta.",
     "shape": "Triangoli",
-    "image": "",
-    "portions": 2
+    "image": "https://tasteofsavor.com/assets/images/1738407943522-5x8iedqj.webp",
+    "portions": 2,
+    "photoSource": "https://tasteofsavor.com/recipes/crispy-cheese-ham-pastries",
+    "photoKind": "illustrative"
   },
   {
     "id": "c14",
@@ -360,8 +384,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Disponile distanziate per avere bordi croccanti.",
     "shape": "Girelle",
-    "image": "",
-    "portions": 2
+    "image": "https://img-global.cpcdn.com/recipes/7c1b03ba9ae2d5f3/400x400cq80/photo.jpg",
+    "portions": 2,
+    "photoSource": "https://cookpad.com/it/cerca/piadina%20al%20forno",
+    "photoKind": "illustrative"
   },
   {
     "id": "c15",
@@ -385,8 +411,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "La sagoma a cuore si fa con un semplice coltello.",
     "shape": "Cuori",
-    "image": "",
-    "portions": 2
+    "image": "https://recipe1.ezmember.co.kr/cache/recipe/2024/10/29/188f4617a08efbcdc4fd2122b583c7fb1.jpg",
+    "portions": 2,
+    "photoSource": "https://www.10000recipe.com/recipe/7037402",
+    "photoKind": "illustrative"
   },
   {
     "id": "c16",
@@ -410,8 +438,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Le pieghe si mantengono chiuse appoggiandole sul fondo del cestello, senza stampini.",
     "shape": "Bustine",
-    "image": "",
-    "portions": 2
+    "image": "https://ontarioporkrecipes.ca/Portals/11/EasyDNNNews/1333/images/Ham-and-Cheese-Air-Fryer-Pockets-1000-1000-p-L-97.jpg",
+    "portions": 2,
+    "photoSource": "https://ontarioporkrecipes.ca/homemade-ham-cheese-pockets-air-fryer",
+    "photoKind": "illustrative"
   },
   {
     "id": "c17",
@@ -435,8 +465,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Ideale per utilizzare polenta avanzata.",
     "shape": "Stick",
-    "image": "",
-    "portions": 2
+    "image": "https://d8-a.sdn.cz/d_8/c_imgrestricted_p9_A/kcHp2YdDtDrxR2K0vGLnFNO/2381/polenta-hranolky.jpeg?fl=cro%2C0%2C0%2C800%2C450%7Cres%2C1200%2C%2C1",
+    "portions": 2,
+    "photoSource": "https://medium.seznam.cz/clanek/lukas-korec-krupave-polentove-hranolky-z-trouby-257462",
+    "photoKind": "illustrative"
   },
   {
     "id": "c18",
@@ -461,8 +493,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Aggiungi pangrattato se l’impasto è troppo umido.",
     "shape": "Crocchette",
-    "image": "",
-    "portions": 2
+    "image": "https://www.gzrecipes.com/content/uploads/sites/3/2025/11/gebackene-thunfischfrikadellen-7-691c8ad6e56543-00636314-1024x683.jpg",
+    "portions": 2,
+    "photoSource": "https://www.gzrecipes.com/de/cucinoperpassione/gebakene-thunfischfrikadellen/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c19",
@@ -486,8 +520,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Il salmone va controllato al centro; riferimento prudente 63 °C.",
     "shape": "Burger",
-    "image": "",
-    "portions": 2
+    "image": "https://img.justrecipes.net/cdn-cgi/image/width%3D1600%2Cquality%3D90/recipes/salmon-potato-cakes-modern/master.webp",
+    "portions": 2,
+    "photoSource": "https://justrecipes.net/fr/recettes/salmon-potato-cakes-modern/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c20",
@@ -512,8 +548,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Per un gusto più delicato sostituisci il cocco con pangrattato.",
     "shape": "Bocconcini",
-    "image": "",
-    "portions": 2
+    "image": "https://brightbasilblog.com/assets/images/1769927223513-rm9dnkj0.webp",
+    "portions": 2,
+    "photoSource": "https://brightbasilblog.com/recipes/crispy-coconut-shrimp-sauce",
+    "photoKind": "illustrative"
   },
   {
     "id": "c21",
@@ -538,8 +576,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Piadina e ripieno: niente stampi, pochi minuti.",
     "shape": "Girelle",
-    "image": "",
-    "portions": 2
+    "image": "https://media.vorwerk.com/is/image/vorwerk/rockstars3?hei=491&tmst=1771342359250&wid=700",
+    "portions": 2,
+    "photoSource": "https://www.vorwerk.com/it/it/c/home/idee-e-ricette/magazine/bimby/lifestyle/rockstars-teglie-in-stoneware",
+    "photoKind": "illustrative"
   },
   {
     "id": "c22",
@@ -564,8 +604,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Un bicchiere e una forchetta bastano per ottenere un bel bordo sigillato.",
     "shape": "Pacchettini",
-    "image": "",
-    "portions": 2
+    "image": "https://www.boodschappen.nl/app/uploads/recipe_images/4by3_header%402x/ham-kaas-envelopjes-uit-de-airfryer.jpg",
+    "portions": 2,
+    "photoSource": "https://www.boodschappen.nl/recept/ham-kaas-envelopjes-uit-de-airfryer/",
+    "photoKind": "illustrative"
   },
   {
     "id": "c23",
@@ -588,8 +630,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Falle raffreddare 2 minuti per renderle più stabili.",
     "shape": "Nuvole",
-    "image": "",
-    "portions": 2
+    "image": "https://cdn.vilgain.com/image/product/detail-photo-desktop/df6270c5-7b63-4361-92be-7de439ed1323?v=1783000660",
+    "portions": 2,
+    "photoSource": "https://vilgain.sk/vilgain-syrove-chrumky",
+    "photoKind": "illustrative"
   },
   {
     "id": "c24",
@@ -689,8 +733,10 @@ window.STUDIO_RECIPES=[
     ],
     "tip": "Se una fetta è troppo corta, sovrapponine due.",
     "shape": "Involtini",
-    "image": "",
-    "portions": 2
+    "image": "https://www.merkur.de/assets/images/39/30/39030418-knusprige-zucchiniroellchen-aus-dem-airfryer-mediterraner-snack-mit-mozzarella-und-tomaten-aec.png",
+    "portions": 2,
+    "photoSource": "https://www.merkur.de/leben/genuss/sommer-auf-dem-teller-knusprige-zucchini-roellchen-aus-dem-airfryer-mit-wuerziger-fuellung-93844109.html",
+    "photoKind": "illustrative"
   },
   {
     "id": "c28",
